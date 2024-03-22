@@ -24,7 +24,29 @@ body {
   padding: 20px;
   text-align: center;
 }
-
 img{
-	width: 500px;
+	width: 100%;
+	padding: 5%;
+}
+.pic{
+	padding: 5%;
+	width: 50%;
+}
+.game_introduce_left{
+	display: flex;
+	width: 100%;
+}
+.game_introduce_right{
+	display: flex;
+	width: 100%;
+}
+.text_left{
+	text-align: left;
+	width: 50%;
+	padding: 5%;
+}
+.text_right{
+	text-align: right;
+	width: 50%;
+	padding: 5%;
 }
